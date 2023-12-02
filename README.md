@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="8-d.png" alt="Alt text">
+  <img src="10-c.png" alt="Alt text">
 </div>
 
 Welcome to the ISLP Book Exercises Machine Learning repository! 🌟 Here, you'll find solutions and discussions for exercises from the "ISLP" book, with a focus on machine learning concepts. Dive into the world of statistics and learn how it intersects with the exciting field of machine learning.
