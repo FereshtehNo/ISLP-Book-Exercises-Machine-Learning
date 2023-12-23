@@ -22,6 +22,7 @@ The repository is organized by chapters, and each chapter contains exercises and
 ## Table of Contents 📖
 - [Chapter 2: Statistical Learning(8 and 10)](#)
 - [Chapter 3: Linear Regression (13)](#)
+- [Chapter 5: Resampling Methods (2h-8-9)](#)
 
 ## Languages Used
 
