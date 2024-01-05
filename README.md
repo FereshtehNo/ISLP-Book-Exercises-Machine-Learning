@@ -24,7 +24,7 @@ The repository is organized by chapters, and each chapter contains exercises and
 - [Chapter 3: Linear Regression (13)](#)
 - [Chapter 4: Classifcation (10 and 14)](#)
 - [Chapter 5: Resampling Methods (2h-8-9)](#)
-- [Chapter 6: Linear Model Selection and Regularization (2h-8-9)](#)
+- [Chapter 6: Linear Model Selection and Regularization (8)](#)
 
 ## Languages Used
 
