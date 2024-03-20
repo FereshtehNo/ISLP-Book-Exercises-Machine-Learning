@@ -25,7 +25,7 @@ The repository is organized by chapters, and each chapter contains exercises and
 - [Chapter 4: Classifcation (10 and 14)](#)
 - [Chapter 5: Resampling Methods (2h-8-9)](#)
 - [Chapter 6: Linear Model Selection and Regularization (8)](#)
-- [Chapter 6: Unsupervised Learning (8)](#)
+- [Chapter 12: Unsupervised Learning (8)](#)
 
 ## Languages Used
 
